@@ -4,7 +4,7 @@ def welcome
 end
 
 def deal_card
-  num = math.ran
+  (1..11)rand
   # code #deal_card here
 end
 
