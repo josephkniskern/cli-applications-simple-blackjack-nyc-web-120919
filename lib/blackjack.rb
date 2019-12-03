@@ -4,7 +4,7 @@ def welcome
 end
 
 def deal_card
-  
+  num = math.ran
   # code #deal_card here
 end
 
