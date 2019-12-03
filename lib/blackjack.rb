@@ -4,7 +4,7 @@ def welcome
 end
 
 def deal_card
-  (1..11)rand
+  puts (1..11)rand
   # code #deal_card here
 end
 
