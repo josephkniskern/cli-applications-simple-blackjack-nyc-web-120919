@@ -5,6 +5,7 @@ end
 
 def deal_card
   puts (1..11)rand
+end
   # code #deal_card here
 end
 
